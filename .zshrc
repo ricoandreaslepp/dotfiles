@@ -257,6 +257,7 @@ alias srv="ls -R && python3 -m http.server 80"
 alias gst='git status'
 alias ga='git add'
 alias gpr='git pull --rebase'
+alias gc='git commit'
 alias gp='git push'
 
 # ADD GLOBAL BURP PROXY
